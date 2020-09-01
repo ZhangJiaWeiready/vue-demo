@@ -52,7 +52,7 @@ export default {
   }
 }
 </script>
-<style  scope lang="less">
+<style lang="less" scoped>
   .content {
     color: red;
   }
